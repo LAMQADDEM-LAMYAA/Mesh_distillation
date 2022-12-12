@@ -190,6 +190,7 @@ print("T étage5:",root4)
 #nouvaux vecteur de température
 T=np.array([root,root1,root2,root3,root4])
 print(np.array(T))
+print(type(T))
 
 
 
